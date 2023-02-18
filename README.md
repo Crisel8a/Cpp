@@ -32,3 +32,4 @@ Perdí muchos programas al cambiar de computadora, aquí algunos que rescaté qu
 - Máxico común divisor
 - Tu cumpleaños en dígitos de Pi
 - Taxonomía de los siete reinos de biología
+- Polomorfismos
